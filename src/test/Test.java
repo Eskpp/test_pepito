@@ -18,28 +18,7 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-//        Integer numerito = 5;
-//        cambio(numerito);
-//        System.out.println(numerito);
-//        
-//        Numerito nuevonum = new Numerito(numerito);
-//        cambioClase(nuevonum);
-//        System.out.println(nuevonum.getNumero());
-        System.out.println("hola mundo");
-        LimpiarPantalla.limpiarConAviso();
-
-        System.out.println("adios");
-    }
-
-    public static void cambio(Integer numero) {
-        numero++;
-        System.out.println(numero);
-    }
-
-    public static void cambioClase(Numerito num) {
-        Integer local = num.getNumero();
-        local++;
-        num.setNumero(local);
+        //se recontra pudrio todo, cambio en todos lados
     }
 
 }

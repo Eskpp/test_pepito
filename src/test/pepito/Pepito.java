@@ -12,6 +12,7 @@ package test.pepito;
 public class Pepito {
 
     private String nombre;
+    private String pudrision;
 
     public Pepito(String nombre) {
         this.nombre = nombre;
